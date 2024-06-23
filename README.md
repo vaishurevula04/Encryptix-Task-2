@@ -1,0 +1,1 @@
+Developed a STUDENT GRADE CALCULATOR in Java. It computes total marks, average percentage, assigns grades based on averages, and displays results including total marks, average percentage, and grade achieved.
